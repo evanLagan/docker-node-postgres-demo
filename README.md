@@ -110,16 +110,6 @@ Screenshots are stored in the media/ folder.
 
 ---
 
-## Project Structure
-
-Dockerfile
-docker-compose.yml
-index.js
-package.json
-media/
-
----
-
 ## Concepts Demonstrated
 
 * Multi-container architecture
